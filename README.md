@@ -73,6 +73,7 @@ Power BI visualizations include:
 ├── Dashboard.pbix # Power BI file
 ├── README.md # Project documentation
 
+ ![Image Alt]()
 
 
 
