@@ -73,7 +73,7 @@ Power BI visualizations include:
 ├── Dashboard.pbix # Power BI file
 ├── README.md # Project documentation
 
- ![Image Alt]()
+ ![Image Alt](https://github.com/hiteshbehera/-Ola-Ride-Cancellation-Analysis/blob/77d7c008c9c38c148a2aa945a395f440b8e90ad3/Ola_dashboard_snapshot.png)
 
 
 
