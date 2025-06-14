@@ -78,6 +78,6 @@ Power BI visualizations include:
 
 
 ## 📢 Author
-**Hitesh Berher**  
+**Hitesh Behera**  
 📧 [hkbehera307@gmail.com]  
 🔗 [https://www.linkedin.com/in/hitesh-behera-572838367/] 
